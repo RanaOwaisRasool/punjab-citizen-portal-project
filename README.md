@@ -4,5 +4,5 @@ Here is the Punjab Citizen portal. We created this for semester Project.
 ## Group 
 - Hassan Bashir
 - Rana Owais Rasool
-- Saib Sikandar
+- Muhammad Saqib Sikandar
 - Muhammad Subhan sheikh
